@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3b548f6-5ea6-4ee6-bfb4-b78ea1d2ccbe" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/config_DB.txt" afterPath="$PROJECT_DIR$/config_DB.txt" />
+      <change beforePath="$PROJECT_DIR$/dados(1) .sql" afterPath="$PROJECT_DIR$/_data_base/dados(1) .sql" />
+      <change beforePath="$PROJECT_DIR$/tecWebDB.sql" afterPath="$PROJECT_DIR$/_data_base/tecWebDB.sql" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,7 +57,7 @@
         </entry>
       </file>
       <file leaf-file-name="dados(1) .sql" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dados(1) .sql">
+        <entry file="file://$PROJECT_DIR$/_data_base/dados(1) .sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="906">
               <caret line="45" column="37" lean-forward="false" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
@@ -66,7 +67,7 @@
         </entry>
       </file>
       <file leaf-file-name="tecWebDB.sql" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tecWebDB.sql">
+        <entry file="file://$PROJECT_DIR$/_data_base/tecWebDB.sql">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-276">
               <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
@@ -213,6 +214,11 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL&#10;Amazon Redshift" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\UFC-2018-1\TECNOLOGIAS-WEB\TRABALHO_FINAL\VAGA_JA\DATA_BASE" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -256,12 +262,12 @@
       <workItem from="1525738404083" duration="4719000" />
       <workItem from="1526584231185" duration="6299000" />
       <workItem from="1526598719279" duration="3141000" />
-      <workItem from="1526756060577" duration="11288000" />
+      <workItem from="1526756060577" duration="11509000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="259644000" />
+    <option name="totallyTimeSpent" value="259865000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -274,10 +280,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.50767416" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1933405" sideWeight="0.829419" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1933405" sideWeight="0.829419" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19244392" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -659,7 +664,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dados(1) .sql">
+    <entry file="file://$PROJECT_DIR$/_data_base/dados(1) .sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="906">
           <caret line="45" column="37" lean-forward="false" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
@@ -667,7 +672,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tecWebDB.sql">
+    <entry file="file://$PROJECT_DIR$/_data_base/tecWebDB.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-276">
           <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
