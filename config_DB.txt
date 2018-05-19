@@ -2,9 +2,9 @@ HOST: localhost
 
 DB: tecWebDB
 
-USER: WMDB
+USER: root
 
-PASSWORD: wmfpt18
+PASSWORD: 123456	
 
 
 -----------------------------------------------------------
