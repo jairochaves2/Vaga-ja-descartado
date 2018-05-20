@@ -16,6 +16,10 @@ function cadastroVaga(){
 
 }
 
+function listVagas(){
+
+}
+
 function findData2table(){
 
 }
@@ -36,3 +40,4 @@ function removeVaga(){
 function cadastrarCurriculo(){
 
 }
+
