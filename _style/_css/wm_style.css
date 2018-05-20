@@ -1,31 +1,27 @@
-
 /* Estilo da página de destino de formulário */
 
-.title-content-page h1{
-    color: #009688;
-    letter-spacing:-0.001em;
-    font-size: 3em;
-    font-weight: 700;
+.title-content-page h1 {
+    
     text-align: center;
     vertical-align: center;
 }
-#navbarSite2 li:hover{
-    background-color: rgba(0, 0, 255, 0.4);;
+
+#navbarSite2 li:hover {
+    background-color: rgba(0, 0, 255, 0.4);
+    ;
 }
 
-#navbarSite2 li a:hover{
+#navbarSite2 li a:hover {
     font-weight: 600;
-    font-size: 1.1rem;
- }
-
+}
 
 /* ---------------------------------------------------------------------
     RWD: Responsive Web Design - Media Queries
     The indicator of time as TIME
  -----------------------------------------------------------------------*/
+
 @media only screen and (max-width: 800px) {
-    a#time{
+    a#time {
         display: none;
     }
 }
-
