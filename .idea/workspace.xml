@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/_style/_css/meu-estilo.css" description="}" line="125" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c3b548f6-5ea6-4ee6-bfb4-b78ea1d2ccbe" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/_dataBase/config_DB.txt" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/_style/_css/meu-estilo.css" afterPath="$PROJECT_DIR$/_style/_css/meu-estilo.css" />
+      <change beforePath="$PROJECT_DIR$/_style/_css/wm_style.css" afterPath="$PROJECT_DIR$/_style/_css/wm_style.css" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,14 +35,14 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2970">
-              <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
+            <state relative-caret-position="729">
+              <caret line="291" column="19" lean-forward="true" selection-start-line="291" selection-start-column="19" selection-end-line="291" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="processa_dados.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="processa_dados.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_php/processa_dados.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
@@ -55,14 +62,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="meu-estilo.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="meu-estilo.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_style/_css/meu-estilo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2130">
-              <caret line="71" column="25" lean-forward="false" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
-              <folding>
-                <marker date="1526836458962" expanded="true" signature="11:69" ph="{...}" />
-              </folding>
+            <state relative-caret-position="-1770">
+              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -70,8 +75,8 @@
       <file leaf-file-name="wm_style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_style/_css/wm_style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -105,14 +110,14 @@
         <option value="$PROJECT_DIR$/_style/_scss/meu-estilo.css" />
         <option value="$PROJECT_DIR$/_style/_scss/meu-estilo.scss" />
         <option value="$PROJECT_DIR$/_pages/page_destino.html" />
-        <option value="$PROJECT_DIR$/_style/_css/meu-estilo.css" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/_style/_css/wm_style.css" />
         <option value="$PROJECT_DIR$/dados (1).sql" />
         <option value="$PROJECT_DIR$/tabelas_dados .sql" />
         <option value="$PROJECT_DIR$/tecWebDB.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/446d29ff-b505-476b-8b1b-8498cbd2abc5/console.sql" />
         <option value="$PROJECT_DIR$/_php/processa_dados.php" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/_style/_css/wm_style.css" />
+        <option value="$PROJECT_DIR$/_style/_css/meu-estilo.css" />
       </list>
     </option>
   </component>
@@ -159,7 +164,23 @@
             <path>
               <item name="VAGA_JA" type="b2602c69:ProjectViewProjectNode" />
               <item name="VAGA_JA" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_dataBase" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="VAGA_JA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VAGA_JA" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="_php" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="VAGA_JA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VAGA_JA" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_style" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="VAGA_JA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="VAGA_JA" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_style" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="_css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -230,12 +251,12 @@
       <workItem from="1526584231185" duration="6299000" />
       <workItem from="1526598719279" duration="3141000" />
       <workItem from="1526756060577" duration="13430000" />
-      <workItem from="1526836213518" duration="326000" />
+      <workItem from="1526836213518" duration="2778000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="262112000" />
+    <option name="totallyTimeSpent" value="264564000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -250,7 +271,7 @@
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15520945" sideWeight="0.829419" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.150913" sideWeight="0.829419" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19244392" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -363,6 +384,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="362">
           <caret line="87" column="16" lean-forward="false" selection-start-line="87" selection-start-column="16" selection-end-line="87" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -370,6 +392,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="360" column="22" lean-forward="false" selection-start-line="360" selection-start-column="22" selection-end-line="360" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -378,6 +401,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="343" column="16" lean-forward="false" selection-start-line="343" selection-start-column="16" selection-end-line="343" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -385,6 +409,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-268">
           <caret line="95" column="16" lean-forward="false" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -409,24 +434,6 @@
     <entry file="file://$PROJECT_DIR$/page_destino.html" />
     <entry file="file://$PROJECT_DIR$/_style/_scss/meu-estilo.css" />
     <entry file="file://$PROJECT_DIR$/_style/_scss/meu-estilo.scss" />
-    <entry file="file://$PROJECT_DIR$/_style/_css/meu-estilo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2130">
-          <caret line="71" column="25" lean-forward="false" selection-start-line="71" selection-start-column="25" selection-end-line="71" selection-end-column="25" />
-          <folding>
-            <marker date="1526836458962" expanded="true" signature="11:69" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_style/_css/wm_style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e07b7786-37f5-4d36-a933-bacd2b617904/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -476,14 +483,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2970">
-          <caret line="99" column="0" lean-forward="false" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_pages/page_destino.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -496,6 +495,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="729">
+          <caret line="291" column="19" lean-forward="true" selection-start-line="291" selection-start-column="19" selection-end-line="291" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_style/_css/wm_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_style/_css/meu-estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1770">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding />
         </state>
       </provider>

@@ -1,15 +1,7 @@
-.scrollSpy {
-  position: relative;
-  overflow: auto;
-  height: 338px;
-}
-
-/*
-#navbarSite2 li a:hover {
-  /*background-color: #fff;
-  color: #007bff;
-  font-weight: bold;
-  font-size: 1.1rem; } */
+/* -------------------------------------------------------------
+      This file contain css rules to provide style for the
+      some features of index.html  file - main lyout page
+ --------------------------------------------------------------*/
 
 #navDropTitle {
   background-color: #28a745;
@@ -118,6 +110,8 @@ ol li:hover {
   font-size: 1.8rem;
 }
 
+
+
 /* -----------------------------------------------------------------
     RWD: Responsive Web Design - Media Queries
     FOR card section
@@ -131,6 +125,4 @@ ol li:hover {
     height: auto;
   }
 }
-
-/*# sourceMappingURL=meu-estilo.css.map */
 

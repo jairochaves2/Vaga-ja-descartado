@@ -1,14 +1,14 @@
-/* Estilo da página de destino de formulário */
+/* -------------------------------------------------------------
+        Estilo da página de destino de formulário
+ --------------------------------------------------------------*/
 
 .title-content-page h1 {
-    
     text-align: center;
     vertical-align: center;
 }
 
 #navbarSite2 li:hover {
     background-color: rgba(0, 0, 255, 0.4);
-    ;
 }
 
 #navbarSite2 li a:hover {
