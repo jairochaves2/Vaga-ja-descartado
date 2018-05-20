@@ -10,3 +10,29 @@
  * de formulários
  */
 
+/*  métodos definidos para gerenciamento de  vagas */
+// ofertar vaga
+function cadastroVaga(){
+
+}
+
+function findData2table(){
+
+}
+
+//atualiza dados de vaga
+function updateVaga(){
+
+}
+
+function removeVaga(){
+
+}
+
+/* -------------------------------------------------------------
+    métodos definidos para gerenciamento de  vagas
+---------------------------------------------------------------*/
+// cadastro de curriculo pra concorrer a uma vaga
+function cadastrarCurriculo(){
+
+}
