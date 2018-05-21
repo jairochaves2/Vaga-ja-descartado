@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/_style/_css/meu-estilo.css" description="}" line="125" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="c3b548f6-5ea6-4ee6-bfb4-b78ea1d2ccbe" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/_dataBase/config_DB.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/App/Models/ValidaCPF_CNPJ.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/_style/_css/meu-estilo.css" afterPath="$PROJECT_DIR$/_style/_css/meu-estilo.css" />
-      <change beforePath="$PROJECT_DIR$/_style/_css/wm_style.css" afterPath="$PROJECT_DIR$/_style/_css/wm_style.css" />
+      <change beforePath="$PROJECT_DIR$/App/Assets/_style/_css/meu-estilo.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/App/Assets/_style/_css/wm_style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/App/Views/_pages/page_cadastro_empresa.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/App/Views/_pages/page_destino.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/_dataBase/cadastro.mwb" afterPath="$PROJECT_DIR$/App/_dataBase/cadastro.mwb" />
+      <change beforePath="$PROJECT_DIR$/_dataBase/config_DB.txt" afterPath="$PROJECT_DIR$/App/_dataBase/config_DB.txt" />
+      <change beforePath="$PROJECT_DIR$/_dataBase/dados(1) .sql" afterPath="$PROJECT_DIR$/App/_dataBase/dados(1) .sql" />
+      <change beforePath="$PROJECT_DIR$/_dataBase/tecWebDB.sql" afterPath="$PROJECT_DIR$/App/_dataBase/tecWebDB.sql" />
+      <change beforePath="$PROJECT_DIR$/_images/Blazers-Formal.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/Blazers-Formal.jpg" />
+      <change beforePath="$PROJECT_DIR$/_images/Bugatti-Veyron-History.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/Bugatti-Veyron-History.jpg" />
+      <change beforePath="$PROJECT_DIR$/_images/HouseIcon.png" afterPath="$PROJECT_DIR$/App/Assets/_images/HouseIcon.png" />
+      <change beforePath="$PROJECT_DIR$/_images/blazer-Slim-jacket-sleeve.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/blazer-Slim-jacket-sleeve.jpg" />
+      <change beforePath="$PROJECT_DIR$/_images/bugatti-wallpaper-picture-collection.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/bugatti-wallpaper-picture-collection.jpg" />
+      <change beforePath="$PROJECT_DIR$/_images/canva-youtube-icon.png" afterPath="$PROJECT_DIR$/App/Assets/_images/canva-youtube-icon.png" />
+      <change beforePath="$PROJECT_DIR$/_images/favicon-wm-32.ico" afterPath="$PROJECT_DIR$/App/Assets/_images/favicon-wm-32.ico" />
+      <change beforePath="$PROJECT_DIR$/_images/favicon-wm.ico" afterPath="$PROJECT_DIR$/App/Assets/_images/favicon-wm.ico" />
+      <change beforePath="$PROJECT_DIR$/_images/fb-icon.png" afterPath="$PROJECT_DIR$/App/Assets/_images/fb-icon.png" />
+      <change beforePath="$PROJECT_DIR$/_images/home.png" afterPath="$PROJECT_DIR$/App/Assets/_images/home.png" />
+      <change beforePath="$PROJECT_DIR$/_images/insta-icon.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/insta-icon.jpg" />
+      <change beforePath="$PROJECT_DIR$/_images/painel-paisagem-g-frete-gratis-decoracao-de-festa.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/painel-paisagem-g-frete-gratis-decoracao-de-festa.jpg" />
+      <change beforePath="$PROJECT_DIR$/_images/slide-01.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/slide-01.jpg" />
+      <change beforePath="$PROJECT_DIR$/_images/slide-02.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/slide-02.jpg" />
+      <change beforePath="$PROJECT_DIR$/_images/slide-03.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/slide-03.jpg" />
+      <change beforePath="$PROJECT_DIR$/_images/velvet-blazer.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/velvet-blazer.jpg" />
+      <change beforePath="$PROJECT_DIR$/_images/wm-image-logo-small.PNG" afterPath="$PROJECT_DIR$/App/Assets/_images/wm-image-logo-small.PNG" />
+      <change beforePath="$PROJECT_DIR$/_php/processa_dados.php" afterPath="$PROJECT_DIR$/App/Models/processa_dados.php" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,49 +57,64 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="729">
-              <caret line="291" column="19" lean-forward="true" selection-start-line="291" selection-start-column="19" selection-end-line="291" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="processa_dados.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_php/processa_dados.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page_destino.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_pages/page_destino.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="meu-estilo.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_style/_css/meu-estilo.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1770">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="wm_style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_style/_css/wm_style.css">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="65" />
+              <caret line="42" column="41" lean-forward="false" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page_cadastro_empresa.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/Views/page_cadastro_empresa.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="20" column="51" lean-forward="false" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/Controllers/HomeController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="57" column="49" lean-forward="true" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
+              <folding>
+                <element signature="e#6#297#0#PHP" expanded="true" />
+                <element signature="e#327#353#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="processa_dados.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/App/Models/processa_dados.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/Controllers/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="660">
+              <caret line="22" column="48" lean-forward="true" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidaCPF_CNPJ.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/Models/ValidaCPF_CNPJ.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1925">
+              <caret line="149" column="5" lean-forward="false" selection-start-line="149" selection-start-column="5" selection-end-line="149" selection-end-column="5" />
+              <folding>
+                <element signature="e#6#361#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,9 +152,21 @@
         <option value="$PROJECT_DIR$/tecWebDB.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/446d29ff-b505-476b-8b1b-8498cbd2abc5/console.sql" />
         <option value="$PROJECT_DIR$/_php/processa_dados.php" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_style/_css/wm_style.css" />
         <option value="$PROJECT_DIR$/_style/_css/meu-estilo.css" />
+        <option value="$PROJECT_DIR$/App/Assets/_css/meu-estilo.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/App/Views/page_cadastro_empresa.html" />
+        <option value="$PROJECT_DIR$/App/Views/page_destino.html" />
+        <option value="$PROJECT_DIR$/App/Conn.php" />
+        <option value="$PROJECT_DIR$/App/Controllers/IndexController.php" />
+        <option value="$PROJECT_DIR$/App/Models/Cliente.php" />
+        <option value="$PROJECT_DIR$/App/Models/Empresario.php" />
+        <option value="$PROJECT_DIR$/App/Models/ValidaCPFCNPJ.php" />
+        <option value="$PROJECT_DIR$/App/Controllers/index.php" />
+        <option value="$PROJECT_DIR$/App/Models/ValidaCPF_CNPJ.php" />
+        <option value="$PROJECT_DIR$/App/Controllers/HomeController.php" />
+        <option value="$PROJECT_DIR$/App/Models/processa_dados.php" />
       </list>
     </option>
   </component>
@@ -132,8 +181,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="954" />
-    <option name="y" value="73" />
+    <option name="x" value="417" />
+    <option name="y" value="103" />
     <option name="width" value="946" />
     <option name="height" value="1016" />
   </component>
@@ -152,8 +201,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,23 +213,25 @@
             <path>
               <item name="VAGA_JA" type="b2602c69:ProjectViewProjectNode" />
               <item name="VAGA_JA" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_dataBase" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="App" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="VAGA_JA" type="b2602c69:ProjectViewProjectNode" />
               <item name="VAGA_JA" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_php" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="App" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controllers" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="VAGA_JA" type="b2602c69:ProjectViewProjectNode" />
               <item name="VAGA_JA" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_style" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="App" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Models" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="VAGA_JA" type="b2602c69:ProjectViewProjectNode" />
               <item name="VAGA_JA" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_style" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="_css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="App" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Views" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -204,6 +255,10 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\UFC-2018-1\TECNOLOGIAS-WEB\TRABALHO_FINAL\VAGA_JA\App" />
+      <recent name="D:\UFC-2018-1\TECNOLOGIAS-WEB\TRABALHO_FINAL\VAGA_JA\App\Models" />
+      <recent name="D:\UFC-2018-1\TECNOLOGIAS-WEB\TRABALHO_FINAL\VAGA_JA\App\Assets" />
+      <recent name="D:\UFC-2018-1\TECNOLOGIAS-WEB\TRABALHO_FINAL\VAGA_JA\App\Views" />
       <recent name="D:\UFC-2018-1\TECNOLOGIAS-WEB\TRABALHO_FINAL\VAGA_JA\DATA_BASE" />
     </key>
   </component>
@@ -251,12 +306,13 @@
       <workItem from="1526584231185" duration="6299000" />
       <workItem from="1526598719279" duration="3141000" />
       <workItem from="1526756060577" duration="13430000" />
-      <workItem from="1526836213518" duration="2778000" />
+      <workItem from="1526836213518" duration="11355000" />
+      <workItem from="1526906073230" duration="9422000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="264564000" />
+    <option name="totallyTimeSpent" value="282563000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -271,17 +327,18 @@
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.150913" sideWeight="0.829419" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18474758" sideWeight="0.829419" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19244392" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20837809" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30342385" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.044864226" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30342385" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -289,7 +346,6 @@
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18796992" sideWeight="0.17058097" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43211335" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -299,19 +355,20 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19244392" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30342385" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.044864226" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30342385" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18796992" sideWeight="0.17058097" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1933405" sideWeight="0.829419" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43211335" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18474758" sideWeight="0.829419" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.20837809" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,48 +382,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_variables.scss" />
-    <entry file="file://$PROJECT_DIR$/_style/_scss/meu-estilo.css" />
-    <entry file="file://$PROJECT_DIR$/_style/_scss/meu-estilo.scss" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_style/_scss/meu-estilo.scss" />
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/compiler/meu-estilo.css" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_style/_scss/meu-estilo.scss" />
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/compiler/meu-estilo.css" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/meu-estilo.scss" />
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_variables.scss" />
-    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/compiler/meu-estilo.css" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/meu-estilo.scss" />
     <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/scss/_variables.scss" />
     <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/compiler/meu-estilo.css" />
@@ -392,24 +407,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="360" column="22" lean-forward="false" selection-start-line="360" selection-start-column="22" selection-end-line="360" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modues/bootstrap/compiler/meu-estilo.css" />
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/phrase.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="343" column="16" lean-forward="false" selection-start-line="343" selection-start-column="16" selection-end-line="343" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/sectional.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-268">
           <caret line="95" column="16" lean-forward="false" selection-start-line="95" selection-start-column="16" selection-end-line="95" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -469,56 +474,179 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_dataBase/tecWebDB.sql">
+    <entry file="file://$PROJECT_DIR$/App/_dataBase/tecWebDB.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="894">
           <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_dataBase/dados(1) .sql">
+    <entry file="file://$PROJECT_DIR$/App/_dataBase/dados(1) .sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-84">
           <caret line="45" column="37" lean-forward="false" selection-start-line="45" selection-start-column="37" selection-end-line="45" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_pages/page_destino.html">
+    <entry file="file://$PROJECT_DIR$/App/Views/_pages/page_destino.html" />
+    <entry file="file://$PROJECT_DIR$/App/Assets/_style/_css/wm_style.css" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="34" />
+        <state relative-caret-position="272">
+          <caret line="59" column="14" lean-forward="false" selection-start-line="59" selection-start-column="14" selection-end-line="59" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_php/processa_dados.php">
+    <entry file="file://$PROJECT_DIR$/App/Assets/_style/_css/meu-estilo.css" />
+    <entry file="file://$PROJECT_DIR$/App/Assets/_css/wm_style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Assets/_css/meu-estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1500">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="291" column="19" lean-forward="true" selection-start-line="291" selection-start-column="19" selection-end-line="291" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_style/_css/wm_style.css">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="65" />
+          <caret line="42" column="41" lean-forward="false" selection-start-line="42" selection-start-column="41" selection-end-line="42" selection-end-column="41" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_style/_css/meu-estilo.css">
+    <entry file="file://$PROJECT_DIR$/App/Views/page_destino.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1770">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="300">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Conn.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="639">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="e#6#82#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Views/page_cadastro_empresa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="20" column="51" lean-forward="false" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Models/usuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2250">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1511827406430" expanded="true" signature="1398:1462" ph="select * fro... usuario" />
+            <marker date="1511827406430" expanded="true" signature="2419:2536" ph="select * fro... usuario" />
+            <marker date="1511827406430" expanded="true" signature="2771:3107" ph="INSERT INTO `gerenciaObras`.`usuario`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Models/Empresario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2310">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1526912273988" expanded="true" signature="1077:1367" ph="INSERT INTO `gerenciaObras`.`cliente`... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Models/Obras.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1500">
+          <caret line="79" column="36" lean-forward="false" selection-start-line="79" selection-start-column="36" selection-end-line="79" selection-end-column="36" />
+          <folding>
+            <marker date="1526912273900" expanded="true" signature="912:1141" ph="INSERT INTO `gerenciaObras`.`obra`... " />
+            <marker date="1526912273900" expanded="true" signature="1587:1619" ph="SELECT * FRO... obra" />
+            <marker date="1526912273900" expanded="true" signature="2031:2106" ph="SELECT * FRO... obra" />
+            <marker date="1526912273900" expanded="true" signature="2287:2845" ph="..." />
+            <marker date="1526912273900" expanded="true" signature="2334:2819" ph="..." />
+            <marker date="1526912273900" expanded="true" signature="2363:2790" ph="..." />
+            <marker date="1526912273900" expanded="true" signature="2987:3803" ph="..." />
+            <marker date="1526912273900" expanded="false" signature="3424:3437" ph="..." />
+            <marker date="1526912273900" expanded="false" signature="3669:3682" ph="..." />
+            <marker date="1526912273900" expanded="true" signature="4273:4461" ph="UPDATE gerenciaObras.obra... " />
+            <marker date="1526912273900" expanded="true" signature="4880:4924" ph="DELETE FROM gerenciaObras.obra... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../valida-cpf-cnpj/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Controllers/IndexController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3849">
+          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+          <folding>
+            <element signature="e#110#133#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Models/ValidaCPFCNPJ.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Controllers/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="22" column="48" lean-forward="true" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Models/ValidaCPF_CNPJ.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1925">
+          <caret line="149" column="5" lean-forward="false" selection-start-line="149" selection-start-column="5" selection-end-line="149" selection-end-column="5" />
+          <folding>
+            <element signature="e#6#361#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="57" column="49" lean-forward="true" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
+          <folding>
+            <element signature="e#6#297#0#PHP" expanded="true" />
+            <element signature="e#327#353#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Models/processa_dados.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
           <folding />
         </state>
       </provider>
