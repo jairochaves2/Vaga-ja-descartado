@@ -2,36 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3b548f6-5ea6-4ee6-bfb4-b78ea1d2ccbe" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/App/Models/ValidaCPF_CNPJ.php" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/App/Conn.php" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/App/Views/page_cadastro_empresa.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/App/Views/page_destino.html" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/App/Assets/_style/_css/meu-estilo.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/App/Assets/_style/_css/wm_style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/App/Views/_pages/page_cadastro_empresa.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/App/Views/_pages/page_destino.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/_dataBase/cadastro.mwb" afterPath="$PROJECT_DIR$/App/_dataBase/cadastro.mwb" />
-      <change beforePath="$PROJECT_DIR$/_dataBase/config_DB.txt" afterPath="$PROJECT_DIR$/App/_dataBase/config_DB.txt" />
-      <change beforePath="$PROJECT_DIR$/_dataBase/dados(1) .sql" afterPath="$PROJECT_DIR$/App/_dataBase/dados(1) .sql" />
-      <change beforePath="$PROJECT_DIR$/_dataBase/tecWebDB.sql" afterPath="$PROJECT_DIR$/App/_dataBase/tecWebDB.sql" />
-      <change beforePath="$PROJECT_DIR$/_images/Blazers-Formal.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/Blazers-Formal.jpg" />
-      <change beforePath="$PROJECT_DIR$/_images/Bugatti-Veyron-History.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/Bugatti-Veyron-History.jpg" />
-      <change beforePath="$PROJECT_DIR$/_images/HouseIcon.png" afterPath="$PROJECT_DIR$/App/Assets/_images/HouseIcon.png" />
-      <change beforePath="$PROJECT_DIR$/_images/blazer-Slim-jacket-sleeve.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/blazer-Slim-jacket-sleeve.jpg" />
-      <change beforePath="$PROJECT_DIR$/_images/bugatti-wallpaper-picture-collection.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/bugatti-wallpaper-picture-collection.jpg" />
-      <change beforePath="$PROJECT_DIR$/_images/canva-youtube-icon.png" afterPath="$PROJECT_DIR$/App/Assets/_images/canva-youtube-icon.png" />
-      <change beforePath="$PROJECT_DIR$/_images/favicon-wm-32.ico" afterPath="$PROJECT_DIR$/App/Assets/_images/favicon-wm-32.ico" />
-      <change beforePath="$PROJECT_DIR$/_images/favicon-wm.ico" afterPath="$PROJECT_DIR$/App/Assets/_images/favicon-wm.ico" />
-      <change beforePath="$PROJECT_DIR$/_images/fb-icon.png" afterPath="$PROJECT_DIR$/App/Assets/_images/fb-icon.png" />
-      <change beforePath="$PROJECT_DIR$/_images/home.png" afterPath="$PROJECT_DIR$/App/Assets/_images/home.png" />
-      <change beforePath="$PROJECT_DIR$/_images/insta-icon.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/insta-icon.jpg" />
-      <change beforePath="$PROJECT_DIR$/_images/painel-paisagem-g-frete-gratis-decoracao-de-festa.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/painel-paisagem-g-frete-gratis-decoracao-de-festa.jpg" />
-      <change beforePath="$PROJECT_DIR$/_images/slide-01.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/slide-01.jpg" />
-      <change beforePath="$PROJECT_DIR$/_images/slide-02.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/slide-02.jpg" />
-      <change beforePath="$PROJECT_DIR$/_images/slide-03.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/slide-03.jpg" />
-      <change beforePath="$PROJECT_DIR$/_images/velvet-blazer.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/velvet-blazer.jpg" />
-      <change beforePath="$PROJECT_DIR$/_images/wm-image-logo-small.PNG" afterPath="$PROJECT_DIR$/App/Assets/_images/wm-image-logo-small.PNG" />
-      <change beforePath="$PROJECT_DIR$/_php/processa_dados.php" afterPath="$PROJECT_DIR$/App/Models/processa_dados.php" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,8 +41,18 @@
       <file leaf-file-name="page_cadastro_empresa.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App/Views/page_cadastro_empresa.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="20" column="51" lean-forward="false" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
+            <state relative-caret-position="1564">
+              <caret line="46" column="25" lean-forward="false" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page_destino.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/Views/page_destino.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -77,8 +61,8 @@
       <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/App/Controllers/HomeController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="57" column="49" lean-forward="true" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
+            <state relative-caret-position="2289">
+              <caret line="120" column="5" lean-forward="true" selection-start-line="120" selection-start-column="5" selection-end-line="120" selection-end-column="5" />
               <folding>
                 <element signature="e#6#297#0#PHP" expanded="true" />
                 <element signature="e#327#353#0#PHP" expanded="true" />
@@ -87,21 +71,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="processa_dados.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/App/Models/processa_dados.php">
+      <file leaf-file-name="Conn.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/App/Conn.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+            <state relative-caret-position="630">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App/Controllers/index.php">
+      <file leaf-file-name="processa_dados.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App/Models/processa_dados.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="22" column="48" lean-forward="true" selection-start-line="22" selection-start-column="48" selection-end-line="22" selection-end-column="48" />
+            <state relative-caret-position="-30">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -165,8 +149,8 @@
         <option value="$PROJECT_DIR$/App/Models/ValidaCPFCNPJ.php" />
         <option value="$PROJECT_DIR$/App/Controllers/index.php" />
         <option value="$PROJECT_DIR$/App/Models/ValidaCPF_CNPJ.php" />
-        <option value="$PROJECT_DIR$/App/Controllers/HomeController.php" />
         <option value="$PROJECT_DIR$/App/Models/processa_dados.php" />
+        <option value="$PROJECT_DIR$/App/Controllers/HomeController.php" />
       </list>
     </option>
   </component>
@@ -307,12 +291,12 @@
       <workItem from="1526598719279" duration="3141000" />
       <workItem from="1526756060577" duration="13430000" />
       <workItem from="1526836213518" duration="11355000" />
-      <workItem from="1526906073230" duration="9422000" />
+      <workItem from="1526906073230" duration="10122000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="282563000" />
+    <option name="totallyTimeSpent" value="283263000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -521,31 +505,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/Views/page_destino.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App/Conn.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="639">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-          <folding>
-            <element signature="e#6#82#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App/Views/page_cadastro_empresa.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="20" column="51" lean-forward="false" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/App/Models/usuario.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2250">
@@ -632,10 +591,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/App/Views/page_destino.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Views/page_cadastro_empresa.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="46" column="25" lean-forward="false" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Models/processa_dados.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/App/Controllers/HomeController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="57" column="49" lean-forward="true" selection-start-line="57" selection-start-column="49" selection-end-line="57" selection-end-column="49" />
+        <state relative-caret-position="2289">
+          <caret line="120" column="5" lean-forward="true" selection-start-line="120" selection-start-column="5" selection-end-line="120" selection-end-column="5" />
           <folding>
             <element signature="e#6#297#0#PHP" expanded="true" />
             <element signature="e#327#353#0#PHP" expanded="true" />
@@ -643,10 +626,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/Models/processa_dados.php">
+    <entry file="file://$PROJECT_DIR$/App/Conn.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        <state relative-caret-position="630">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding />
         </state>
       </provider>
