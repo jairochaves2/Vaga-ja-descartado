@@ -23,8 +23,8 @@ abstract class Action{
 
     protected function render($action, $layout = true){
         $this->action = $action;
-        if ($layout == true and file_exists("../index.phtml")){
-            include_once "../index.phtml";
+        if ($layout == true and file_exists("../index.html")){
+            include_once "../index.html";
         }else{
             $this->content();
         }

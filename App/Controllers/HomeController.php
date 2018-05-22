@@ -26,6 +26,34 @@ class HomeController extends Action{
               Tratamento de empresário
     -------------------------------------------------------*/
 
+    function trataCPF_CNPJ($request){
+        $cpf_cnpj_form = $request['cpf_cnpjEnpresa'];
+        $cpf_cnpj = new ValidaCPF_CNPJ($cpf_cnpj_form);
+
+        // Opção de CPF ou CNPJ formatado no padrão
+        $formataded = $cpf_cnpj->formata();
+
+        // Verifica se o CPF ou CNPJ é válido
+        if ( $formataded ) {
+            echo $formataded; // 71.569.042/0001-96
+        } else {
+            echo '\'<script> alert("CPF/CNPJ INVALIDO") </script>\'';
+        }
+
+        // Opção sem formatação, apenas validação
+
+        // Cria um objeto sobre a classe
+        $cpf_cnpj = new ValidaCPF_CNPJ($cpf_cnpj_form);
+
+        // Verifica se o CPF ou CNPJ é válido
+        if ( $cpf_cnpj->valida() ) {
+            echo '<script>alert("CPF/CNPJ VALIDO")</script>'; // Retornará este valor
+        } else {
+            echo '\'<script> alert("CPF/CNPJ INVALIDO") </script>\'';
+        }
+    }
+
+
 
     public function cadastroEnpresario(){
         $this->render("cadastroCliente");
@@ -41,33 +69,6 @@ class HomeController extends Action{
 
         $cliente  = new Empresario($nomeCliente, $endCliente, $empresaCliente, $cpfCliente, $emailCliente, $telefoneCliente);
         $cliente->cadastroCliente();
-    }
-
-    public function trataCPF_CNPJ($request){
-        $cpf_cnpj_form = $request['cnpjEnpresa'];
-        $cpf_cnpj = new ValidaCPF_CNPJ($cpf_cnpj_form);
-
-        // Opção de CPF ou CNPJ formatado no padrão
-        $formataded = $cpf_cnpj->formata();
-
-        // Verifica se o CPF ou CNPJ é válido
-        if ( $formataded ) {
-            echo $formataded; // 71.569.042/0001-96
-        } else {
-            echo 'CPF ou CNPJ Inválido';
-        }
-
-        // Opção sem formatação, apenas validação
-
-        // Cria um objeto sobre a classe
-        $cpf_cnpj = new ValidaCPF_CNPJ($cpf_cnpj_form);
-
-        // Verifica se o CPF ou CNPJ é válido
-        if ( $cpf_cnpj->valida() ) {
-            echo 'CPF ou CNPJ válido'; // Retornará este valor
-        } else {
-            echo 'CPF ou CNPJ Inválido';
-        }
     }
 
 
