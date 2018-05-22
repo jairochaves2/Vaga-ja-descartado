@@ -53,7 +53,7 @@
             <div class="collapse navbar-collapse">
                 <ul class="navbar-nav mr-auto" id="navbarSite2">
                     <li class="nav-item">
-                        <a class="nav-link text-lg-center text-white text-uppercase" href="App/Views/page_cadastro_empresario.html">Cadastrar Vaga</a>
+                        <a class="nav-link text-lg-center text-white text-uppercase" href="App/Views/page_cadastro_empresario.php">Cadastrar Vaga</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-lg-center text-white text-uppercase" href="#lorem">Ver Vagas</a>

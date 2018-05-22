@@ -39,7 +39,7 @@
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" style="background-color: #346d8d;">
         <div class="container">
-            <a href="../../index.html" id="home-style">
+            <a href="../../index.php" id="home-style">
                 <img id="icon-home" src="../Assets/_images/home.png" width="40" height="40" title="Home" style="background-color: transparent;">
             </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
