@@ -110,8 +110,6 @@ ol li:hover {
   font-size: 1.8rem;
 }
 
-
-
 /* -----------------------------------------------------------------
     RWD: Responsive Web Design - Media Queries
     FOR card section
@@ -126,3 +124,28 @@ ol li:hover {
   }
 }
 
+strong {
+  color: #19C1C3;
+}
+
+label {
+  color: #19C1C3;
+}
+
+button {
+  background-color: #346d8d;
+  color: white;
+}
+
+#navbarSite2 li a:hover {
+  font-weight: 600;
+}
+
+#navbarSite2 li:hover {
+  background-color: #346d8d;
+}
+
+.title-content-page h1 {
+  text-align: center;
+  vertical-align: center;
+}
