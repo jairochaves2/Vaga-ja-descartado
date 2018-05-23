@@ -27,7 +27,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="App/Assets/_images/favicon.png">
     <!--  bootstrap css -->
     <link rel="stylesheet" href="App/Assets/_css/meu-estilo.css">
-    <link rel="stylesheet" href="App/Assets/_css/wm_style.css">
+    
 
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
@@ -43,7 +43,7 @@
                 <img id="icon-home" src="App/Assets/_images/home.png" width="40" height="40" title="Home" style="background-color: transparent;">
             </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-            <a class="navbar-brand h1 mb-0" id="time" data-toggle="tooltip" title="O projeto foi desenvolvido por Idelfrides Jorge e Eric Vinícius. O projeto foi iniciado em 28 de abril de 2018 e terminado em 04 de maio do mesmo ano. O projeto corresponde à atividade numéro 2 da disciplina de Tecnologias Web e consiste em criar um site utilizando Bootstrap e jQuery."
+            <a class="navbar-brand h1 mb-0" id="time" data-toggle="tooltip" title=""
                 href="#">TIME &nbsp;|</a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSite">

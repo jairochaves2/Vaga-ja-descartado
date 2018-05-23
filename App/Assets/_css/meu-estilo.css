@@ -3,12 +3,6 @@
       some features of index.html  file - main lyout page
  --------------------------------------------------------------*/
 
-#navDropTitle {
-  background-color: #28a745;
-  color: #fff;
-  font-weight: bold;
-  font-size: 1.1rem;
-}
 
 ol li:hover {
   background-color: #6f42c1;
@@ -28,31 +22,6 @@ ol li:hover {
   margin: auto 30%;
 }
 
-.follow ul li {
-  display: inline;
-  margin-right: 20px;
-}
-
-.myIcons {
-  width: 35px;
-  height: 35px;
-  margin: 10px auto;
-}
-
-.myborder2 {
-  height: 10px;
-  width: 50%;
-  border-top: 2px solid #6f42c1;
-  margin-top: 5px;
-}
-
-.myborderFooter {
-  height: auto;
-  width: 100%;
-  border-top: 10px solid #6f42c1;
-  margin-bottom: 10px;
-}
-
 .mybordercopy {
   height: auto;
   width: 100%;
@@ -66,64 +35,10 @@ ol li:hover {
   width: 100%;
 }
 
-/*
-#bg-card {
-    background: #fff url("../../_images/bugatti-wallpaper-picture-collection.jpg") no-repeat center center;
-    max-width: 100%;
-    width: 100%;
-    height: 500px;
-}
-*/
-
-#citation-bg {
-  background: #fff url("../_images/painel-paisagem-g-frete-gratis-decoracao-de-festa.jpg") no-repeat center bottom;
-  max-width: 100%;
-  width: 100%;
-  height: 400px;
-}
-
-.myborderCitationTop {
-  height: auto;
-  width: 100%;
-  border-top: 30px solid #6f42c1;
-}
-
-.citacao-bg-transparent {
-  background-color: rgba(0, 0, 0, 0.6);
-  width: 100%;
-  height: 100%;
-  position: relative;
-}
-
-#citacao-content {
-  width: 100%;
-  height: auto;
-  color: #fff;
-  font-weight: 400;
-  text-align: right;
-  display: inline-block;
-  float: right;
-  margin-top: 15%;
-  margin-right: 10%;
-  /*margin-left: 5%;*/
-  position: relative;
-  font-size: 1.8rem;
-}
-
 /* -----------------------------------------------------------------
     RWD: Responsive Web Design - Media Queries
     FOR card section
  -----------------------------------------------------------------*/
-
-@media only screen and (max-width: 768px) {
-  #bg-card {
-    background: #fff url("../_images/Bugatti-Veyron-History.jpg") repeat center center;
-    max-width: 100%;
-    width: 100%;
-    height: auto;
-  }
-}
-
 strong {
   color: #19C1C3;
 }
