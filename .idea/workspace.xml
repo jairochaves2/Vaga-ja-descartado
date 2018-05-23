@@ -2,33 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3b548f6-5ea6-4ee6-bfb4-b78ea1d2ccbe" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/App/Assets/_images/favicon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/App/Views/page_cadastro_empresario.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/App/Views/page_cadastro_vaga.php" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/index.php" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/App/Assets/_css/meu-estilo.css" afterPath="$PROJECT_DIR$/App/Assets/_css/meu-estilo.css" />
-      <change beforePath="$PROJECT_DIR$/App/Assets/_css/wm_style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/App/Assets/_images/Blazers-Formal.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/App/Assets/_images/Bugatti-Veyron-History.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/App/Assets/_images/blazer-Slim-jacket-sleeve.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/App/Assets/_images/bugatti-wallpaper-picture-collection.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/App/Assets/_images/canva-youtube-icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/App/Assets/_images/favicon-wm-32.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/App/Assets/_images/favicon-wm.ico" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/App/Assets/_images/fb-icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/App/Assets/_images/insta-icon.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/App/Assets/_images/painel-paisagem-g-frete-gratis-decoracao-de-festa.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/App/Assets/_images/slide-01.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/slide-01.jpg" />
-      <change beforePath="$PROJECT_DIR$/App/Assets/_images/slide-02.jpg" afterPath="$PROJECT_DIR$/App/Assets/_images/slide-02.jpg" />
-      <change beforePath="$PROJECT_DIR$/App/Assets/_images/slide-03.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/App/Assets/_images/velvet-blazer.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/App/Assets/_images/wm-image-logo-small.PNG" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/App/Controllers/CpfCnpjControlller.php" afterPath="$PROJECT_DIR$/App/Controllers/CpfCnpjControlller.php" />
-      <change beforePath="$PROJECT_DIR$/App/Views/page_cadastro_empresa.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/App/Views/page_destino.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/App/_dataBase/config_DB.txt" afterPath="$PROJECT_DIR$/App/_dataBase/config_DB.txt" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -77,62 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/App/Controllers/HomeController.php">
+      <file leaf-file-name="meu-estilo.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/App/Assets/_css/meu-estilo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="930">
-              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding>
-                <element signature="e#6#297#0#PHP" expanded="true" />
-                <element signature="e#327#353#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.phtml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App/Views/layout.phtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3060">
-              <caret line="144" column="88" lean-forward="false" selection-start-line="144" selection-start-column="16" selection-end-line="144" selection-end-column="88" />
-              <folding>
-                <marker date="1526937647574" expanded="true" signature="7290:7472" ph="..." />
-                <marker date="1526937647574" expanded="true" signature="7332:7449" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CpfCnpjControlller.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App/Controllers/CpfCnpjControlller.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
-              <folding>
-                <marker date="1527083590689" expanded="true" signature="642:860" ph="..." />
-                <marker date="1527083590689" expanded="true" signature="688:835" ph="{...}" />
-                <marker date="1527083590689" expanded="true" signature="1259:1475" ph="..." />
-                <marker date="1527083590689" expanded="true" signature="1306:1450" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="page_cadastro_empresario.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/App/Views/page_cadastro_empresario.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+            <state relative-caret-position="-341">
+              <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -201,8 +126,8 @@
         <option value="$PROJECT_DIR$/App/Controllers/HomeController.php" />
         <option value="$PROJECT_DIR$/App/Controllers/verificaCPF_CNPJ.php" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/App/Assets/_css/meu-estilo.css" />
         <option value="$PROJECT_DIR$/App/Controllers/CpfCnpjControlller.php" />
+        <option value="$PROJECT_DIR$/App/Assets/_css/meu-estilo.css" />
       </list>
     </option>
   </component>
@@ -375,12 +300,12 @@
       <workItem from="1526756060577" duration="13430000" />
       <workItem from="1526836213518" duration="11355000" />
       <workItem from="1526906073230" duration="29149000" />
-      <workItem from="1527081390154" duration="2287000" />
+      <workItem from="1527081390154" duration="2468000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="304577000" />
+    <option name="totallyTimeSpent" value="304758000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -665,14 +590,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5460">
-          <caret line="217" column="44" lean-forward="false" selection-start-line="217" selection-start-column="44" selection-end-line="217" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/App/Views/layout.phtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3060">
@@ -684,26 +601,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/App/Assets/_css/meu-estilo.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1260">
-          <caret line="42" column="15" lean-forward="true" selection-start-line="42" selection-start-column="15" selection-end-line="42" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/App/Views/page_cadastro_vaga.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1020">
           <caret line="34" column="7" lean-forward="true" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/App/Views/page_cadastro_empresario.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -729,6 +630,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/App/Views/page_cadastro_empresario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/App/Controllers/HomeController.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="930">
@@ -737,6 +646,22 @@
             <element signature="e#6#297#0#PHP" expanded="true" />
             <element signature="e#327#353#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5460">
+          <caret line="217" column="44" lean-forward="false" selection-start-line="217" selection-start-column="44" selection-end-line="217" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/Assets/_css/meu-estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-341">
+          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

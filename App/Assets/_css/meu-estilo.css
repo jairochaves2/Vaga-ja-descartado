@@ -3,12 +3,6 @@
       some features of index.html  file - main lyout page
  --------------------------------------------------------------*/
 
-#navDropTitle {
-  background-color: #28a745;
-  color: #fff;
-  font-weight: bold;
-  font-size: 1.1rem;
-}
 
 ol li:hover {
   background-color: #6f42c1;
@@ -26,31 +20,6 @@ ol li:hover {
   width: 40%;
   border-top: 2px solid #495057;
   margin: auto 30%;
-}
-
-.follow ul li {
-  display: inline;
-  margin-right: 20px;
-}
-
-.myIcons {
-  width: 35px;
-  height: 35px;
-  margin: 10px auto;
-}
-
-.myborder2 {
-  height: 10px;
-  width: 50%;
-  border-top: 2px solid #6f42c1;
-  margin-top: 5px;
-}
-
-.myborderFooter {
-  height: auto;
-  width: 100%;
-  border-top: 10px solid #6f42c1;
-  margin-bottom: 10px;
 }
 
 .mybordercopy {
@@ -94,10 +63,6 @@ ol li:hover {
   font-size: 1.8rem;
 }
 
-/* -----------------------------------------------------------------
-    RWD: Responsive Web Design - Media Queries
-    FOR card section
- -----------------------------------------------------------------*/
 
 strong {
   color: #19C1C3;
