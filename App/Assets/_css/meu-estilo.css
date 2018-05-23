@@ -66,22 +66,6 @@ ol li:hover {
   width: 100%;
 }
 
-/*
-#bg-card {
-    background: #fff url("../../_images/bugatti-wallpaper-picture-collection.jpg") no-repeat center center;
-    max-width: 100%;
-    width: 100%;
-    height: 500px;
-}
-*/
-
-#citation-bg {
-  background: #fff url("../_images/painel-paisagem-g-frete-gratis-decoracao-de-festa.jpg") no-repeat center bottom;
-  max-width: 100%;
-  width: 100%;
-  height: 400px;
-}
-
 .myborderCitationTop {
   height: auto;
   width: 100%;
@@ -110,19 +94,33 @@ ol li:hover {
   font-size: 1.8rem;
 }
 
-
-
 /* -----------------------------------------------------------------
     RWD: Responsive Web Design - Media Queries
     FOR card section
  -----------------------------------------------------------------*/
 
-@media only screen and (max-width: 768px) {
-  #bg-card {
-    background: #fff url("../_images/Bugatti-Veyron-History.jpg") repeat center center;
-    max-width: 100%;
-    width: 100%;
-    height: auto;
-  }
+strong {
+  color: #19C1C3;
 }
 
+label {
+  color: #19C1C3;
+}
+
+button {
+  background-color: #346d8d;
+  color: white;
+}
+
+#navbarSite2 li a:hover {
+  font-weight: 600;
+}
+
+#navbarSite2 li:hover {
+  background-color: #346d8d;
+}
+
+.title-content-page h1 {
+  text-align: center;
+  vertical-align: center;
+}

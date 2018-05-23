@@ -14,7 +14,7 @@ class CpfCnpjControlller
 {
 
 
-    public function obama(){
+    public function test(){
         $cpf_cnpj_form = $_POST['cpf_cnpjEnpresa'];
 
         // Cria um objeto sobre a classe
